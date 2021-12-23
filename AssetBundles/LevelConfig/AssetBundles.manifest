@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 324209569
+CRC: 3775591862
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -55,4 +55,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_17:
       Name: level_vermeer
+      Dependencies: {}
+    Info_18:
+      Name: level_frida-kahlo-floral-mihaela-pater
       Dependencies: {}
