@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1848871629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c3e0166daf445678925ef086657cdb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8becf07ccce7d7916c248b51fc6047f7
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 121122de3a50173438ebf937f152aad6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/LevelConfig/dog.asset
+Dependencies: []

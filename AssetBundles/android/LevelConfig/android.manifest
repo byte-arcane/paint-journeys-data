@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1975388436
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level_dog
+      Dependencies: {}
+    Info_1:
+      Name: level_vettriano
+      Dependencies: {}
+    Info_2:
+      Name: level_antiparos
+      Dependencies: {}
+    Info_3:
+      Name: level_botero-fat
+      Dependencies: {}
+    Info_4:
+      Name: level_camargue_horse
+      Dependencies: {}
+    Info_5:
+      Name: level_canaletto_venice
+      Dependencies: {}
+    Info_6:
+      Name: level_celtic_gate
+      Dependencies: {}
+    Info_7:
+      Name: level_cloister
+      Dependencies: {}
+    Info_8:
+      Name: level_dali
+      Dependencies: {}
+    Info_9:
+      Name: level_flamingo
+      Dependencies: {}
+    Info_10:
+      Name: level_granada
+      Dependencies: {}
+    Info_11:
+      Name: level_james_tissot_-_young_ladies_looking_at_japanese_objects
+      Dependencies: {}
+    Info_12:
+      Name: level_marseilles_station
+      Dependencies: {}
+    Info_13:
+      Name: level_monet
+      Dependencies: {}
+    Info_14:
+      Name: level_the-lighthouse-at-two-lights
+      Dependencies: {}
+    Info_15:
+      Name: level_the-missing-man-by-jack-vettriano
+      Dependencies: {}
+    Info_16:
+      Name: level_van-gogh
+      Dependencies: {}
+    Info_17:
+      Name: level_vermeer
+      Dependencies: {}
+    Info_18:
+      Name: level_frida-kahlo-floral-mihaela-pater
+      Dependencies: {}

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1135869952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd9653f776dfdd7aae94f784fa4b92f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58f381d694d342f3d1fc3d5805c2c0f0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 121122de3a50173438ebf937f152aad6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/LevelConfig/van-gogh.asset
+Dependencies: []

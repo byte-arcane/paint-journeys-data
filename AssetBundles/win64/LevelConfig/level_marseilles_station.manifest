@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3543237139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f89797c4e7f05ad6ce73e65c47a2e09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58f381d694d342f3d1fc3d5805c2c0f0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 121122de3a50173438ebf937f152aad6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/LevelConfig/marseilles_station.asset
+Dependencies: []
